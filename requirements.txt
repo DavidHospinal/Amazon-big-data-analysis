@@ -1,0 +1,33 @@
+# Core dependencies for Amazon Big Data project
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.0.3
+numpy==1.24.3
+
+# NoSQL databases
+pymongo==4.4.1
+tinydb==4.8.0
+
+# Big Data processing
+pyspark==3.4.1
+
+# Data visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Jupyter notebooks
+jupyter==1.0.0
+notebook==7.0.0
+ipykernel==6.25.0
+
+# Text processing (for reviews analysis)
+nltk==3.8.1
+textblob==0.17.1
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.65.0
+
+# Development
+pytest==7.4.0
