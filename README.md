@@ -135,9 +135,6 @@
 ---
 
 **📧 Contacto**: oscardavid.hospinal@uc.cl  
-**📅 Entrega**: 02/07/2025  
-**⏰ Hora límite**: 23:59
-
 ---
 
 </div># 🛒 **Amazon Reviews Big Data Analysis**
