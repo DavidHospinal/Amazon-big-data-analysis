@@ -153,15 +153,6 @@
 
 ---
 
-## 📋 **Información del Proyecto**
-
-| **Campo** | **Detalle** |
-|-----------|-------------|
-| **Tarea** | Tarea 1: Adquisición, almacenamiento y análisis de datos web |
-| **Estudiante** | Oscar David Hospinal R. |
-| **Fecha de entrega** | Miércoles 02/07/2025 hasta 23:59 |
-| **Modalidad** | Proyecto grupal (desarrollado individualmente) |  
-
 ---
 
 ## 🎯 **Descripción General**
