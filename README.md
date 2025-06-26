@@ -493,20 +493,6 @@ jupyter==1.0.0
 
 ---
 
-## 👨‍🎓 Información Académica
-
-**Curso**: INF3590 - Big Data  
-**Universidad**: Pontificia Universidad Católica de Chile  
-**Programa**: Magíster en Tecnologías de Información y Gestión  
-**Estudiante**: Oscar David Hospinal R.  
-**Fecha**: Junio 2025  
-
----
-
-## 📄 Declaración de Integridad Académica
-
-Este trabajo ha sido desarrollado completamente por el estudiante, cumpliendo con los estándares de integridad académica de la Pontificia Universidad Católica de Chile. Se han utilizado únicamente fuentes públicas y se han referenciado apropiadamente todas las librerías y datasets empleados.
-
 ---
 
 ## 🔗 Referencias
