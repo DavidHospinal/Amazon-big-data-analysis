@@ -502,3 +502,6 @@ jupyter==1.0.0
 
 *Proyecto desarrollado como parte del curso INF3590 - Big Data*  
 *Pontificia Universidad Católica de Chile - Escuela de Ingeniería*
+
+![Banner Hospinal Systems](https://github.com/user-attachments/assets/a7473172-e4d1-4782-8781-40ac148c030e)
+
